@@ -46,9 +46,9 @@ nav a {
 }
 
 .menu_icon {
-    width: 1.5rem;
+    width: 3rem;
     position: absolute;
-    right: 1rem;
+    right: 2rem;
     top: 0.5rem;
     z-index: 99;
 

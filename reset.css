@@ -59,3 +59,8 @@
   #root, #__next {
     isolation: isolate;
   }
+
+  a {
+    color: rgb(227, 255, 205);
+    text-decoration: none;
+  }
